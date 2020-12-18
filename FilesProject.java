@@ -1,9 +1,5 @@
 /*
 Student Name: Mikayla Morrow
-LSU ID: 895224693
-Lab Section: 1
-Assignment: Lab 1
-Submission Time: 6:00
 */
 package filesproject;
 import java.util.Scanner;
